@@ -20,6 +20,7 @@ This repo contains scripts, programs and command-line tools that add functionali
 ####Bitcoin
 - Bitstamp last BTC Price
 - Coinbase.com BTC Index
+- WinkDex BTC Index
 
 ####Developer
 - Homebrew available updates
@@ -28,10 +29,12 @@ This repo contains scripts, programs and command-line tools that add functionali
 - Docker status (docker-machine and running containers status)
 - Xcode version
 - Github Notifications
+- Semaphoreci project list
 
 ####Finance
 - Stock tracker
-- hour_logger (money management for freelance work). [Download](https://github.com/udeyrishi/hour_logger).
+- Currency tracker
+- hour_logger (money management for freelance work). [Visit hour_logger website](https://github.com/udeyrishi/hour_logger).
 
 ####Lifestyle
 - Sleeping Time Cycles
@@ -61,6 +64,8 @@ This repo contains scripts, programs and command-line tools that add functionali
 #####Battery
 - Battery percentage for bluetooth Mouse
 - Battery percentage for bluetooth Keyboard
+- Battery percentage for bluetooth Trackpad
+- Battery cycles
 
 ####Time
 - Fuzzy clock
@@ -104,9 +109,13 @@ Special thanks to everyone who has contributed:
 - Wiktor Mociun - [https://medium.com/@voter101](https://medium.com/@voter101)
 - Srinivas Gorur-Shandilya - [http://srinivas.gs](http://srinivas.gs)
 - Adam Snodgrass - [https://github.com/asnodgrass](https://github.com/asnodgrass)
+- Baron Reznik [http://www.reznik.net](http://www.reznik.net)
+- Steve Grosbois - [https://github.com/kwiky](https://github.com/kwiky)
 - Manoj Mahalingam - [https://github.com/manojlds](https://github.com/manojlds)
 - Florian Hirschmann - [https://github.com/hirschfl](https://github.com/hirschfl)
+- Maxime Bertheau - [https://github.com/maxoumime](https://github.com/maxoumime)
 - Joe Canero - [https://github.com/caneroj1](https://github.com/caneroj1)
+- Goran Gajic - [https://github.com/gorangajic](https://github.com/gorangajic)
 
 ## Add your own plugin
 
